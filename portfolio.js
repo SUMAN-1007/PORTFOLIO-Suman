@@ -7,7 +7,7 @@ const settings = {
 
 // SEO
 const seo = {
-  title: "Suman Ghorai's Portfolio",
+  title: "Portfolio",
   description:
     "Passionate Embedded Systems & PCB Design Engineer. Explorer of IoT, EVs, and Automation. Constant learner building smart solutions from scratch.",
   og: {
@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Passionate Embedded Systems & PCB Design Engineer. Explorer of IoT, EVs, and Automation. Constant learner building smart solutions from scratch.",
   resumeLink: "https://drive.google.com/your-resume-link", // <-- replace
-  githubProfile: "https://github.com/suman-ghorai", // <-- replace
+  githubProfile: "https://github.com/SUMAN-1007",
 };
 
 // Skills
