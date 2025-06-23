@@ -185,10 +185,10 @@ const projects = {
 const contactInfo = {
   title: "Contact Me",
   subtitle: "Open to collaboration, jobs, and tech discussions!",
-  number: "+91-XXXXXXXXXX",
-  email_address: "youremail@example.com",
-  github: "https://github.com/suman-ghorai",
-  linkedin: "https://linkedin.com/in/your-profile",
+  number: "+91-9749820155",
+  email_address: "sumanghorai119@gmail.com",
+  github: "https://github.com/SUMAN-1007",
+  linkedin: "https://linkedin.com/in/suman-ghorai-743381278",
 };
 
 export {
