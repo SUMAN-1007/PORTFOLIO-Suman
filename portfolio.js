@@ -23,7 +23,7 @@ const greeting = {
   title: "Hi all, I'm Suman",
   subTitle:
     "Passionate Embedded Systems & PCB Design Engineer. Explorer of IoT, EVs, and Automation. Constant learner building smart solutions from scratch.",
-  resumeLink: "https://drive.google.com/your-resume-link", // <-- replace
+  resumeLink: "https://drive.google.com/file/d/1s0L-Z7VbOVzm_OMbKwz6o5S4h2n-cOkk/view?usp=drive_link", // <-- replace
   githubProfile: "https://github.com/SUMAN-1007",
 };
 
